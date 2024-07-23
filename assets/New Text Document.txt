@@ -1,0 +1,11 @@
+Background color = #1E222C
+
+fill color = #299e87
+
+Stroke color = #16ffd0
+
+
+
+
+1106, 586
+
